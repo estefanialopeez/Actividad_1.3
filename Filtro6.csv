@@ -1,0 +1,838 @@
+,Fecha_Alta,Tipo,Operación,Provincia,Superficie,Precio Venta,Fecha Venta,Vendedor
+12,2004-01-04,Parking,Venta,Barcelona,,2937300,2004-11-04 00:00:00,Jesús
+17,2004-01-06,Suelo,Venta,Barcelona,283,1679605,2004-06-06 00:00:00,Carmen
+19,2004-01-08,Oficina,Alquiler,Barcelona,148,1169496,2004-08-19 00:00:00,María
+20,2004-01-09,Industrial,Venta,Barcelona,228,2020992,2004-06-12 00:00:00,Carmen
+24,2004-01-10,Oficina,Alquiler,Barcelona,124,1170684,2004-05-23 00:00:00,Jesús
+27,2004-01-12,Casa,Alquiler,Barcelona,187,1660560,2004-06-16 00:00:00,Joaquín
+30,2004-01-13,Industrial,Alquiler,Barcelona,142,1405374,2004-09-24 00:00:00,Jesús
+32,2004-01-15,Local,Alquiler,Barcelona,181,1504110,2004-07-03 00:00:00,María
+33,2004-01-15,Casa,Venta,Barcelona,281,2483197,2004-11-01 00:00:00,María
+40,2004-01-18,Piso,Venta,Barcelona,230,1421860,2004-09-23 00:00:00,Jesús
+44,2004-01-20,Oficina,Alquiler,Barcelona,287,2851058,2005-01-02 00:00:00,Joaquín
+46,2004-01-20,Piso,Alquiler,Barcelona,53,249418,2004-08-11 00:00:00,Luisa
+47,2004-01-20,Industrial,Venta,Barcelona,284,1457488,2004-07-06 00:00:00,Jesús
+53,2004-01-22,Suelo,Alquiler,Barcelona,71,686996,2004-05-30 00:00:00,Luisa
+62,2004-01-25,Piso,Venta,Barcelona,144,738144,2004-09-06 00:00:00,Luisa
+66,2004-01-27,Industrial,Alquiler,Barcelona,219,948927,2004-10-15 00:00:00,Jesús
+67,2004-01-27,Local,Alquiler,Barcelona,68,376992,2004-06-28 00:00:00,Luisa
+72,2004-01-28,Parking,Alquiler,Barcelona,62,320044,2004-09-04 00:00:00,Joaquín
+78,2004-01-31,Parking,Venta,Barcelona,298,2520484,2004-11-27 00:00:00,Carmen
+79,2004-01-31,Parking,Alquiler,Barcelona,217,1339107,2004-10-05 00:00:00,Carmen
+80,2004-02-01,Industrial,Alquiler,Barcelona,236,1812244,2004-11-17 00:00:00,Pedro
+83,2004-02-02,Piso,Venta,Barcelona,94,470940,2004-07-28 00:00:00,Carmen
+84,2004-02-02,Local,Alquiler,Barcelona,127,925322,2004-06-03 00:00:00,Joaquín
+86,2004-02-03,Industrial,Alquiler,Barcelona,93,778875,2004-05-12 00:00:00,Luisa
+88,2004-02-04,Local,Alquiler,Barcelona,49,219716,2004-09-27 00:00:00,Jesús
+90,2004-02-04,Industrial,Alquiler,Barcelona,123,723609,2004-12-16 00:00:00,Joaquín
+91,2004-02-05,Piso,Alquiler,Barcelona,48,388032,2004-05-06 00:00:00,Jesús
+93,2004-02-06,Industrial,Alquiler,Barcelona,177,965358,2004-06-08 00:00:00,Luisa
+94,2004-02-06,Local,Venta,Barcelona,68,663816,2004-05-23 00:00:00,Joaquín
+101,2004-02-08,Local,Venta,Barcelona,45,438435,2004-05-23 00:00:00,Luisa
+108,2004-02-12,Suelo,Alquiler,Barcelona,300,1528200,2004-08-09 00:00:00,Pedro
+109,2004-02-12,Parking,Venta,Barcelona,206,1587642,2004-12-20 00:00:00,Luisa
+112,2004-02-13,Suelo,Alquiler,Barcelona,89,887241,2005-01-02 00:00:00,Luisa
+120,2004-02-17,Parking,Venta,Barcelona,152,688864,2004-12-06 00:00:00,Jesús
+121,2004-02-17,Casa,Alquiler,Barcelona,270,1385910,2005-02-05 00:00:00,Pedro
+126,2004-02-20,Industrial,Venta,Barcelona,139,1087119,2004-05-29 00:00:00,Jesús
+136,2004-02-23,Casa,Venta,Barcelona,119,686154,2005-01-19 00:00:00,Pedro
+139,2004-02-26,Piso,Venta,Barcelona,222,1076034,2004-06-02 00:00:00,María
+140,2004-02-27,Suelo,Venta,Barcelona,47,455477,2004-12-31 00:00:00,Joaquín
+143,2004-02-28,Parking,Alquiler,Barcelona,121,782870,2004-11-19 00:00:00,Pedro
+146,2004-02-28,Parking,Alquiler,Barcelona,76,734388,2004-05-28 00:00:00,Joaquín
+147,2004-02-28,Local,Venta,Barcelona,109,779241,2004-05-30 00:00:00,María
+168,2004-03-07,Industrial,Alquiler,Barcelona,286,2080078,2004-07-14 00:00:00,Jesús
+174,2004-03-10,Local,Venta,Barcelona,52,416936,2004-08-25 00:00:00,Carmen
+178,2004-03-12,Industrial,Venta,Barcelona,156,848328,2005-02-27 00:00:00,Jesús
+184,2004-03-15,Industrial,Venta,Barcelona,265,2109930,2004-08-27 00:00:00,María
+186,2004-03-16,Local,Alquiler,Barcelona,95,919030,2004-12-10 00:00:00,María
+195,2004-03-20,Piso,Alquiler,Barcelona,281,1336717,2004-11-10 00:00:00,Carmen
+203,2004-03-23,Local,Alquiler,Barcelona,106,692180,2004-11-09 00:00:00,Luisa
+210,2004-03-25,Parking,Alquiler,Barcelona,269,2134246,2004-08-11 00:00:00,Carmen
+211,2004-03-25,Casa,Alquiler,Barcelona,63,492156,2004-10-25 00:00:00,Carmen
+220,2004-03-30,Casa,Alquiler,Barcelona,56,474600,2004-08-27 00:00:00,Pedro
+224,2004-04-01,Parking,Alquiler,Barcelona,152,1069320,2004-12-15 00:00:00,Jesús
+230,2004-04-03,Local,Alquiler,Barcelona,143,665951,2005-02-18 00:00:00,Pedro
+237,2004-04-05,Casa,Alquiler,Barcelona,170,995520,2005-02-01 00:00:00,Jesús
+239,2004-04-06,Parking,Venta,Barcelona,164,1298716,2004-12-03 00:00:00,Luisa
+241,2004-04-07,Suelo,Venta,Barcelona,69,656535,2004-08-16 00:00:00,Jesús
+244,2004-04-08,Casa,Venta,Barcelona,239,1176597,2004-07-07 00:00:00,Joaquín
+246,2004-04-09,Industrial,Alquiler,Barcelona,159,1582527,2004-12-09 00:00:00,Jesús
+254,2004-04-10,Local,Alquiler,Barcelona,49,424536,2005-03-04 00:00:00,Pedro
+257,2004-04-11,Suelo,Alquiler,Barcelona,242,1099648,2005-02-13 00:00:00,María
+261,2004-04-12,Casa,Alquiler,Barcelona,181,1449629,2004-09-14 00:00:00,Luisa
+262,2004-04-13,Oficina,Alquiler,Barcelona,244,1006988,2004-08-06 00:00:00,María
+264,2004-04-14,Parking,Venta,Barcelona,105,927255,2004-11-21 00:00:00,Luisa
+276,2004-04-17,Parking,Venta,Barcelona,209,2038586,2005-01-06 00:00:00,Jesús
+279,2004-04-18,Oficina,Venta,Barcelona,154,881804,2004-08-25 00:00:00,Pedro
+285,2004-04-19,Industrial,Venta,Barcelona,65,523770,2005-01-24 00:00:00,Jesús
+286,2004-04-19,Industrial,Alquiler,Barcelona,225,1360800,2004-07-22 00:00:00,Jesús
+291,2004-04-21,Parking,Venta,Barcelona,54,258444,2005-03-08 00:00:00,Pedro
+295,2004-04-22,Parking,Alquiler,Barcelona,235,1773780,2005-03-28 00:00:00,Pedro
+297,2004-04-23,Industrial,Venta,Barcelona,106,600596,2004-11-23 00:00:00,Luisa
+303,2004-04-26,Casa,Alquiler,Barcelona,298,2612566,2005-02-16 00:00:00,Pedro
+307,2004-04-28,Suelo,Alquiler,Barcelona,228,1521216,2005-03-16 00:00:00,Carmen
+312,2004-04-30,Local,Alquiler,Barcelona,91,391391,2005-02-13 00:00:00,Luisa
+314,2004-05-01,Casa,Alquiler,Barcelona,251,2439971,2005-02-14 00:00:00,Joaquín
+315,2004-05-02,Industrial,Alquiler,Barcelona,261,2571111,2005-02-07 00:00:00,Carmen
+316,2004-05-02,Parking,Alquiler,Barcelona,251,1754992,2004-08-26 00:00:00,Jesús
+321,2004-05-03,Suelo,Venta,Barcelona,42,255906,2004-11-09 00:00:00,María
+322,2004-05-03,Parking,Venta,Barcelona,237,1592166,2004-10-15 00:00:00,María
+323,2004-05-04,Suelo,Alquiler,Barcelona,155,876060,2004-12-31 00:00:00,Carmen
+325,2004-05-04,Industrial,Alquiler,Barcelona,179,1227224,2004-10-08 00:00:00,Luisa
+327,2004-05-04,Suelo,Venta,Barcelona,273,1369368,2005-04-17 00:00:00,Jesús
+330,2004-05-05,Parking,Alquiler,Barcelona,205,990355,2004-12-08 00:00:00,Luisa
+332,2004-05-06,Piso,Venta,Barcelona,110,803000,2004-08-25 00:00:00,Jesús
+337,2004-05-08,Oficina,Alquiler,Barcelona,41,361661,2005-01-28 00:00:00,Carmen
+342,2004-05-10,Parking,Venta,Barcelona,175,1178100,2004-11-12 00:00:00,Luisa
+343,2004-05-10,Casa,Venta,Barcelona,146,1083466,2004-09-19 00:00:00,Jesús
+346,2004-05-11,Industrial,Venta,Barcelona,173,851852,2004-09-18 00:00:00,Carmen
+357,2004-05-15,Piso,Venta,Barcelona,131,1180048,2004-11-04 00:00:00,Joaquín
+359,2004-05-16,Local,Venta,Barcelona,156,896220,2005-03-19 00:00:00,Luisa
+368,2004-05-19,Casa,Alquiler,Barcelona,149,1238339,2004-12-27 00:00:00,Luisa
+370,2004-05-20,Oficina,Venta,Barcelona,230,1109980,2004-12-08 00:00:00,Luisa
+372,2004-05-21,Suelo,Alquiler,Barcelona,131,822811,2005-05-21 00:00:00,Pedro
+376,2004-05-24,Oficina,Alquiler,Barcelona,105,525210,2005-04-16 00:00:00,Pedro
+383,2004-05-26,Parking,Venta,Barcelona,200,1823400,2004-10-20 00:00:00,Joaquín
+384,2004-05-26,Parking,Venta,Barcelona,197,1746405,2005-03-20 00:00:00,Luisa
+386,2004-05-27,Oficina,Venta,Barcelona,119,486472,2004-09-04 00:00:00,Joaquín
+391,2004-05-30,Piso,Alquiler,Barcelona,202,1560450,2005-02-06 00:00:00,Jesús
+393,2004-05-31,Local,Alquiler,Barcelona,203,946792,2005-04-17 00:00:00,María
+396,2004-06-01,Parking,Venta,Barcelona,177,933321,2005-05-10 00:00:00,Joaquín
+400,2004-06-02,Piso,Alquiler,Barcelona,271,2682900,2005-06-02 00:00:00,Pedro
+405,2004-06-03,Oficina,Venta,Barcelona,207,1883700,2005-02-23 00:00:00,Carmen
+406,2004-06-03,Industrial,Venta,Barcelona,162,1383480,2004-12-16 00:00:00,María
+407,2004-06-04,Industrial,Alquiler,Barcelona,74,729788,2005-01-22 00:00:00,Pedro
+414,2004-06-06,Parking,Venta,Barcelona,46,386584,2004-12-17 00:00:00,Carmen
+416,2004-06-07,Suelo,Venta,Barcelona,254,1381506,2005-04-14 00:00:00,Luisa
+420,2004-06-09,Suelo,Venta,Barcelona,135,1209735,2005-05-05 00:00:00,Pedro
+421,2004-06-09,Piso,Alquiler,Barcelona,126,637308,2004-11-09 00:00:00,Jesús
+422,2004-06-09,Local,Alquiler,Barcelona,260,1090180,2004-12-16 00:00:00,Luisa
+423,2004-06-09,Parking,Venta,Barcelona,261,1945755,2004-11-06 00:00:00,Jesús
+426,2004-06-10,Piso,Venta,Barcelona,81,583362,2005-05-04 00:00:00,Carmen
+437,2004-06-14,Oficina,Venta,Barcelona,158,1543344,2004-12-26 00:00:00,Luisa
+439,2004-06-15,Parking,Venta,Barcelona,115,1077665,2004-09-19 00:00:00,Jesús
+440,2004-06-16,Parking,Venta,Barcelona,102,790602,2004-11-09 00:00:00,Carmen
+443,2004-06-17,Parking,Venta,Barcelona,102,1005312,2005-06-09 00:00:00,Luisa
+450,2004-06-18,Oficina,Venta,Barcelona,54,406998,2005-04-25 00:00:00,Joaquín
+453,2004-06-19,Oficina,Alquiler,Barcelona,72,458568,2004-10-06 00:00:00,Luisa
+454,2004-06-20,Parking,Alquiler,Barcelona,244,2439512,2005-01-02 00:00:00,Carmen
+457,2004-06-20,Piso,Alquiler,Barcelona,71,587880,2004-10-03 00:00:00,Jesús
+459,2004-06-22,Oficina,Alquiler,Barcelona,77,322322,2005-03-12 00:00:00,Joaquín
+468,2004-06-24,Casa,Alquiler,Barcelona,65,546780,2004-12-13 00:00:00,Pedro
+480,2004-06-29,Oficina,Alquiler,Barcelona,257,1166780,2005-01-10 00:00:00,Jesús
+489,2004-07-02,Parking,Alquiler,Barcelona,234,1911312,2005-04-08 00:00:00,Luisa
+493,2004-07-03,Piso,Venta,Barcelona,274,1729762,2005-07-03 00:00:00,Luisa
+494,2004-07-03,Oficina,Venta,Barcelona,268,2578696,2005-06-28 00:00:00,Luisa
+498,2004-07-04,Casa,Venta,Barcelona,61,531432,2005-05-22 00:00:00,Joaquín
+502,2004-07-05,Piso,Venta,Barcelona,72,647352,2005-06-07 00:00:00,María
+507,2004-07-05,Local,Venta,Barcelona,271,2297538,2004-11-22 00:00:00,Jesús
+509,2004-07-06,Industrial,Alquiler,Barcelona,227,1175860,2005-07-05 00:00:00,Joaquín
+512,2004-07-06,Casa,Alquiler,Barcelona,191,1841622,2005-01-21 00:00:00,Jesús
+514,2004-07-08,Oficina,Alquiler,Barcelona,47,262777,2004-12-22 00:00:00,Carmen
+515,2004-07-08,Oficina,Alquiler,Barcelona,119,720902,2005-06-23 00:00:00,Carmen
+518,2004-07-09,Piso,Alquiler,Barcelona,123,682773,2005-01-30 00:00:00,Luisa
+520,2004-07-09,Parking,Venta,Barcelona,105,740355,2004-12-08 00:00:00,Luisa
+523,2004-07-10,Piso,Alquiler,Barcelona,159,1536576,2005-06-24 00:00:00,Pedro
+526,2004-07-11,Industrial,Alquiler,Barcelona,231,935781,2004-11-13 00:00:00,Joaquín
+530,2004-07-12,Industrial,Alquiler,Barcelona,112,712768,2005-06-14 00:00:00,Carmen
+538,2004-07-16,Parking,Alquiler,Barcelona,111,761793,2005-07-11 00:00:00,María
+541,2004-07-16,Oficina,Venta,Barcelona,182,1514968,2004-10-24 00:00:00,María
+547,2004-07-20,Parking,Venta,Barcelona,286,2330042,2004-10-21 00:00:00,Carmen
+551,2004-07-21,Local,Venta,Barcelona,125,804625,2005-06-26 00:00:00,Carmen
+552,2004-07-21,Oficina,Venta,Barcelona,209,1568754,2004-12-15 00:00:00,Pedro
+553,2004-07-21,Parking,Venta,Barcelona,141,867009,2004-11-21 00:00:00,Joaquín
+562,2004-07-25,Piso,Venta,Barcelona,237,1272216,2005-04-27 00:00:00,Jesús
+564,2004-07-25,Suelo,Venta,Barcelona,147,917868,2004-11-15 00:00:00,Joaquín
+566,2004-07-26,Local,Venta,Barcelona,98,469910,2005-01-08 00:00:00,Joaquín
+574,2004-07-28,Parking,Alquiler,Barcelona,280,1877400,2005-04-21 00:00:00,Joaquín
+575,2004-07-29,Casa,Venta,Barcelona,54,435348,2005-02-20 00:00:00,Pedro
+576,2004-07-29,Oficina,Venta,Barcelona,154,889658,2005-06-22 00:00:00,Joaquín
+586,2004-08-02,Piso,Alquiler,Barcelona,184,1286344,2005-07-02 00:00:00,Joaquín
+594,2004-08-04,Industrial,Venta,Barcelona,262,1343798,2005-04-15 00:00:00,Jesús
+599,2004-08-08,Oficina,Alquiler,Barcelona,289,1275646,2005-01-29 00:00:00,Pedro
+602,2004-08-09,Casa,Alquiler,Barcelona,174,1408182,2005-05-23 00:00:00,Jesús
+606,2004-08-10,Parking,Venta,Barcelona,49,418019,2005-02-22 00:00:00,Pedro
+609,2004-08-11,Local,Venta,Barcelona,127,1058545,2005-01-23 00:00:00,Joaquín
+610,2004-08-11,Casa,Venta,Barcelona,294,2658936,2005-06-21 00:00:00,Luisa
+612,2004-08-11,Industrial,Venta,Barcelona,225,1879200,2004-11-19 00:00:00,Pedro
+613,2004-08-12,Casa,Alquiler,Barcelona,241,1085705,2005-01-28 00:00:00,Pedro
+615,2004-08-12,Piso,Alquiler,Barcelona,231,1237929,2005-04-13 00:00:00,Luisa
+618,2004-08-13,Suelo,Alquiler,Barcelona,93,705963,2005-03-30 00:00:00,Pedro
+619,2004-08-14,Suelo,Alquiler,Barcelona,58,406290,2005-07-04 00:00:00,Carmen
+621,2004-08-14,Piso,Venta,Barcelona,123,1116348,2005-06-29 00:00:00,Luisa
+630,2004-08-17,Parking,Alquiler,Barcelona,272,1972816,2005-08-14 00:00:00,Carmen
+636,2004-08-18,Parking,Alquiler,Barcelona,95,938030,2005-06-03 00:00:00,María
+646,2004-08-21,Piso,Venta,Barcelona,67,346256,2005-05-18 00:00:00,Luisa
+658,2004-08-23,Casa,Alquiler,Barcelona,72,500400,2005-01-22 00:00:00,María
+662,2004-08-24,Local,Alquiler,Barcelona,47,463843,2005-02-19 00:00:00,Joaquín
+666,2004-08-26,Oficina,Venta,Barcelona,116,651920,2005-05-09 00:00:00,María
+667,2004-08-27,Parking,Venta,Barcelona,195,1513005,2005-01-21 00:00:00,Pedro
+669,2004-08-28,Industrial,Venta,Barcelona,289,2188597,2005-04-27 00:00:00,María
+670,2004-08-28,Suelo,Alquiler,Barcelona,235,1277930,2005-04-07 00:00:00,Luisa
+672,2004-08-29,Industrial,Venta,Barcelona,67,479318,2005-04-03 00:00:00,Luisa
+674,2004-08-29,Oficina,Alquiler,Barcelona,62,329716,2005-05-10 00:00:00,Pedro
+677,2004-08-30,Industrial,Venta,Barcelona,225,1239300,2005-01-29 00:00:00,María
+692,2004-09-03,Suelo,Venta,Barcelona,269,1722407,2004-12-21 00:00:00,Jesús
+696,2004-09-04,Local,Alquiler,Barcelona,163,1570016,2005-08-04 00:00:00,Carmen
+703,2004-09-08,Piso,Alquiler,Barcelona,278,2540364,2005-04-12 00:00:00,Carmen
+712,2004-09-10,Casa,Venta,Barcelona,73,688463,2005-08-08 00:00:00,Luisa
+715,2004-09-10,Oficina,Alquiler,Barcelona,206,1793848,2005-09-03 00:00:00,Luisa
+723,2004-09-12,Oficina,Alquiler,Barcelona,241,2085373,2005-07-07 00:00:00,Joaquín
+724,2004-09-13,Oficina,Alquiler,Barcelona,180,901980,2005-02-07 00:00:00,Carmen
+727,2004-09-16,Suelo,Venta,Barcelona,139,585746,2005-05-03 00:00:00,Pedro
+734,2004-09-18,Oficina,Alquiler,Barcelona,89,588023,2005-06-26 00:00:00,Joaquín
+735,2004-09-19,Industrial,Venta,Barcelona,112,840560,2005-06-29 00:00:00,Pedro
+738,2004-09-20,Piso,Venta,Barcelona,250,1527750,2005-02-10 00:00:00,Luisa
+739,2004-09-21,Parking,Alquiler,Barcelona,254,2328418,2005-01-06 00:00:00,Joaquín
+741,2004-09-22,Suelo,Venta,Barcelona,218,1330236,2004-12-27 00:00:00,Pedro
+743,2004-09-22,Casa,Venta,Barcelona,99,538065,2005-06-19 00:00:00,Jesús
+746,2004-09-22,Suelo,Alquiler,Barcelona,178,1355470,2004-12-24 00:00:00,María
+751,2004-09-25,Local,Venta,Barcelona,182,1509872,2005-08-05 00:00:00,Luisa
+756,2004-09-26,Industrial,Venta,Barcelona,42,306726,2005-06-16 00:00:00,Jesús
+757,2004-09-26,Piso,Venta,Barcelona,272,1535168,2005-07-26 00:00:00,Luisa
+759,2004-09-26,Casa,Alquiler,Barcelona,299,1695330,2005-07-14 00:00:00,Joaquín
+761,2004-09-26,Parking,Venta,Barcelona,48,371712,2005-08-14 00:00:00,María
+766,2004-09-29,Piso,Alquiler,Barcelona,95,510150,2005-05-07 00:00:00,Jesús
+768,2004-10-02,Casa,Venta,Barcelona,159,1162131,2005-08-25 00:00:00,Pedro
+771,2004-10-04,Suelo,Venta,Barcelona,277,1363948,2005-01-02 00:00:00,Jesús
+777,2004-10-06,Local,Alquiler,Barcelona,228,1554732,2005-08-17 00:00:00,Jesús
+784,2004-10-06,Casa,Alquiler,Barcelona,228,1685148,2005-10-05 00:00:00,Luisa
+786,2004-10-06,Casa,Venta,Barcelona,279,2064879,2005-05-07 00:00:00,María
+788,2004-10-07,Piso,Venta,Barcelona,251,1781849,2005-07-23 00:00:00,Luisa
+796,2004-10-11,Oficina,Venta,Barcelona,255,1442280,2005-05-04 00:00:00,Jesús
+804,2004-10-14,Piso,Alquiler,Barcelona,243,1469178,2005-02-18 00:00:00,Pedro
+809,2004-10-15,Industrial,Venta,Barcelona,51,334305,2005-09-25 00:00:00,Carmen
+813,2004-10-17,Oficina,Alquiler,Barcelona,192,1627200,2005-01-27 00:00:00,Luisa
+815,2004-10-18,Parking,Alquiler,Barcelona,232,2180104,2005-07-19 00:00:00,Joaquín
+816,2004-10-18,Suelo,Alquiler,Barcelona,158,878638,2005-05-05 00:00:00,Joaquín
+818,2004-10-19,Parking,Venta,Barcelona,102,562632,2005-09-01 00:00:00,Luisa
+827,2004-10-23,Industrial,Alquiler,Barcelona,199,1278774,2005-04-06 00:00:00,Pedro
+833,2004-10-24,Casa,Venta,Barcelona,73,592103,2005-03-21 00:00:00,Jesús
+841,2004-10-29,Suelo,Venta,Barcelona,109,942196,2005-08-31 00:00:00,Joaquín
+842,2004-10-30,Casa,Venta,Barcelona,175,1712725,2005-03-12 00:00:00,Carmen
+855,2004-11-03,Industrial,Venta,Barcelona,247,995657,2005-06-29 00:00:00,Jesús
+858,2004-11-03,Suelo,Venta,Barcelona,65,397540,2005-05-22 00:00:00,Joaquín
+861,2004-11-04,Local,Alquiler,Barcelona,152,631560,2005-10-28 00:00:00,Joaquín
+862,2004-11-06,Oficina,Alquiler,Barcelona,246,2328636,2005-03-10 00:00:00,Luisa
+877,2004-11-10,Industrial,Alquiler,Barcelona,145,1372135,2005-04-18 00:00:00,Pedro
+886,2004-11-13,Suelo,Alquiler,Barcelona,160,1356160,2005-11-08 00:00:00,Luisa
+894,2004-11-14,Industrial,Alquiler,Barcelona,229,1341024,2005-09-12 00:00:00,Jesús
+897,2004-11-15,Casa,Venta,Barcelona,258,2449452,2005-03-14 00:00:00,Jesús
+898,2004-11-16,Local,Venta,Barcelona,58,315810,2005-06-14 00:00:00,Jesús
+899,2004-11-16,Casa,Alquiler,Barcelona,136,1072768,2005-04-02 00:00:00,Pedro
+901,2004-11-17,Oficina,Alquiler,Barcelona,294,2722146,2005-11-05 00:00:00,Joaquín
+903,2004-11-17,Piso,Venta,Barcelona,62,455762,2005-07-25 00:00:00,Pedro
+906,2004-11-18,Oficina,Alquiler,Barcelona,59,491706,2005-07-03 00:00:00,Jesús
+910,2004-11-20,Local,Alquiler,Barcelona,135,1036665,2005-11-08 00:00:00,Pedro
+919,2004-11-23,Industrial,Venta,Barcelona,137,1242042,2005-08-08 00:00:00,Luisa
+925,2004-11-25,Suelo,Alquiler,Barcelona,298,2376550,2005-10-19 00:00:00,Luisa
+926,2004-11-25,Suelo,Alquiler,Barcelona,151,709700,2005-03-16 00:00:00,Carmen
+927,2004-11-26,Industrial,Alquiler,Barcelona,283,1615647,2005-06-06 00:00:00,Joaquín
+937,2004-12-01,Local,Venta,Barcelona,158,766774,2005-03-24 00:00:00,Pedro
+939,2004-12-02,Industrial,Venta,Barcelona,249,1662822,2005-07-11 00:00:00,Luisa
+940,2004-12-02,Industrial,Venta,Barcelona,68,614244,2005-05-11 00:00:00,Jesús
+948,2004-12-05,Parking,Alquiler,Barcelona,206,1241562,2005-07-27 00:00:00,María
+950,2004-12-06,Oficina,Venta,Barcelona,65,307255,2005-10-11 00:00:00,Carmen
+951,2004-12-07,Industrial,Venta,Barcelona,142,954808,2005-06-18 00:00:00,María
+961,2004-12-10,Oficina,Alquiler,Barcelona,174,1271592,2005-07-13 00:00:00,Joaquín
+975,2004-12-16,Local,Alquiler,Barcelona,232,1236560,2005-11-20 00:00:00,Pedro
+976,2004-12-16,Suelo,Alquiler,Barcelona,199,1494490,2005-04-04 00:00:00,Joaquín
+978,2004-12-18,Casa,Alquiler,Barcelona,97,672792,2005-05-23 00:00:00,Joaquín
+979,2004-12-18,Suelo,Venta,Barcelona,122,589016,2005-10-04 00:00:00,Joaquín
+981,2004-12-19,Casa,Alquiler,Barcelona,212,1588940,2005-08-29 00:00:00,Carmen
+982,2004-12-19,Oficina,Alquiler,Barcelona,250,1127750,2005-04-04 00:00:00,Luisa
+984,2004-12-20,Piso,Alquiler,Barcelona,270,2427300,2005-09-06 00:00:00,Pedro
+989,2004-12-21,Industrial,Venta,Barcelona,182,1717898,2005-04-24 00:00:00,Pedro
+990,2004-12-21,Oficina,Venta,Barcelona,233,1870757,2005-10-13 00:00:00,Luisa
+1000,2004-12-25,Local,Venta,Barcelona,250,1368750,2005-06-07 00:00:00,Luisa
+1001,2004-12-25,Piso,Alquiler,Barcelona,292,2677056,2005-07-22 00:00:00,María
+1010,2004-12-27,Piso,Alquiler,Barcelona,96,862848,2005-12-23 00:00:00,María
+1012,2004-12-31,Oficina,Venta,Barcelona,191,1657880,2005-09-06 00:00:00,Pedro
+1013,2004-12-31,Casa,Venta,Barcelona,146,1457226,2005-11-05 00:00:00,María
+1014,2004-12-31,Local,Alquiler,Barcelona,168,1508472,2005-12-03 00:00:00,Luisa
+1015,2005-01-01,Parking,Alquiler,Barcelona,142,1276864,2005-10-24 00:00:00,María
+1017,2005-01-01,Local,Alquiler,Barcelona,269,1360064,2005-08-17 00:00:00,Jesús
+1023,2005-01-03,Piso,Alquiler,Barcelona,172,1615424,2005-11-19 00:00:00,Carmen
+1025,2005-01-04,Parking,Alquiler,Barcelona,206,1231262,2005-07-10 00:00:00,Luisa
+1030,2005-01-05,Industrial,Alquiler,Barcelona,143,1106677,2005-08-08 00:00:00,María
+1031,2005-01-06,Industrial,Alquiler,Barcelona,170,1262250,2005-11-29 00:00:00,Luisa
+1034,2005-01-07,Industrial,Venta,Barcelona,252,2398788,2005-11-19 00:00:00,Jesús
+1039,2005-01-09,Local,Venta,Barcelona,162,1315440,2005-09-16 00:00:00,Jesús
+1046,2005-01-11,Oficina,Alquiler,Barcelona,157,949693,2005-11-27 00:00:00,Jesús
+1047,2005-01-12,Casa,Alquiler,Barcelona,279,2362572,2005-09-25 00:00:00,Luisa
+1048,2005-01-12,Oficina,Venta,Barcelona,73,672987,2005-04-21 00:00:00,Joaquín
+1053,2005-01-14,Oficina,Alquiler,Barcelona,251,2138771,2005-05-15 00:00:00,Carmen
+1056,2005-01-15,Casa,Venta,Barcelona,90,599850,2005-12-30 00:00:00,María
+1057,2005-01-15,Parking,Venta,Barcelona,221,1919827,2006-01-06 00:00:00,Joaquín
+1059,2005-01-17,Piso,Venta,Barcelona,80,500560,2005-12-11 00:00:00,Jesús
+1060,2005-01-17,Industrial,Venta,Barcelona,45,259515,2005-12-17 00:00:00,Joaquín
+1062,2005-01-19,Oficina,Venta,Barcelona,213,1886541,2005-09-05 00:00:00,Jesús
+1067,2005-01-21,Parking,Venta,Barcelona,221,1471197,2005-10-17 00:00:00,Joaquín
+1074,2005-01-23,Parking,Alquiler,Barcelona,290,2275050,2005-09-20 00:00:00,Jesús
+1076,2005-01-23,Local,Alquiler,Barcelona,212,1911604,2006-01-14 00:00:00,María
+1077,2005-01-24,Oficina,Alquiler,Barcelona,254,1850644,2005-11-28 00:00:00,Carmen
+1080,2005-01-24,Piso,Alquiler,Barcelona,180,1128420,2005-10-13 00:00:00,Carmen
+1084,2005-01-25,Industrial,Venta,Barcelona,47,424175,2005-06-19 00:00:00,Joaquín
+1088,2005-01-27,Industrial,Venta,Barcelona,168,1081248,2005-06-01 00:00:00,Carmen
+1089,2005-01-28,Local,Alquiler,Barcelona,253,1816793,2005-10-22 00:00:00,Pedro
+1093,2005-02-01,Piso,Venta,Barcelona,139,1187477,2005-05-31 00:00:00,Carmen
+1094,2005-02-01,Local,Venta,Barcelona,300,1772700,2006-01-03 00:00:00,María
+1097,2005-02-01,Suelo,Venta,Barcelona,262,1960808,2005-09-11 00:00:00,Pedro
+1110,2005-02-06,Parking,Alquiler,Barcelona,87,372447,2005-07-17 00:00:00,Jesús
+1111,2005-02-06,Industrial,Alquiler,Barcelona,210,1602300,2005-06-26 00:00:00,Pedro
+1118,2005-02-10,Local,Alquiler,Barcelona,286,1912482,2005-11-26 00:00:00,Pedro
+1127,2005-02-14,Parking,Venta,Barcelona,229,1859480,2006-01-06 00:00:00,Joaquín
+1129,2005-02-15,Casa,Alquiler,Barcelona,58,444338,2005-06-04 00:00:00,Carmen
+1130,2005-02-15,Parking,Venta,Barcelona,156,795912,2006-01-06 00:00:00,Carmen
+1131,2005-02-15,Piso,Alquiler,Barcelona,92,900956,2005-06-14 00:00:00,Pedro
+1133,2005-02-15,Local,Venta,Barcelona,122,879254,2005-06-25 00:00:00,Luisa
+1137,2005-02-16,Casa,Venta,Barcelona,257,1066550,2005-09-23 00:00:00,Carmen
+1142,2005-02-17,Suelo,Alquiler,Barcelona,254,1394206,2005-05-28 00:00:00,Carmen
+1143,2005-02-17,Suelo,Alquiler,Barcelona,256,2176768,2006-02-13 00:00:00,Carmen
+1145,2005-02-17,Oficina,Venta,Barcelona,198,1090782,2006-02-01 00:00:00,Joaquín
+1147,2005-02-18,Oficina,Alquiler,Barcelona,233,984192,2006-01-28 00:00:00,Jesús
+1150,2005-02-18,Local,Venta,Barcelona,158,1308398,2006-02-05 00:00:00,Carmen
+1153,2005-02-20,Piso,Alquiler,Barcelona,292,2865688,2005-08-21 00:00:00,Carmen
+1157,2005-02-20,Oficina,Venta,Barcelona,298,2436448,2005-08-13 00:00:00,Carmen
+1159,2005-02-21,Industrial,Venta,Barcelona,276,2148384,2005-10-12 00:00:00,Jesús
+1175,2005-02-26,Casa,Venta,Barcelona,133,1305129,2005-12-22 00:00:00,Joaquín
+1178,2005-02-27,Casa,Venta,Barcelona,91,780598,2005-11-07 00:00:00,Jesús
+1179,2005-02-28,Oficina,Alquiler,Barcelona,70,354270,2005-11-18 00:00:00,Jesús
+1180,2005-02-28,Casa,Alquiler,Barcelona,45,425790,2006-01-16 00:00:00,María
+1184,2005-03-02,Piso,Venta,Barcelona,236,1388388,2006-02-04 00:00:00,Joaquín
+1188,2005-03-03,Piso,Alquiler,Barcelona,255,1471605,2005-10-11 00:00:00,Carmen
+1190,2005-03-03,Industrial,Venta,Barcelona,142,1256274,2005-07-21 00:00:00,Pedro
+1192,2005-03-04,Casa,Alquiler,Barcelona,239,1320236,2005-08-03 00:00:00,Carmen
+1197,2005-03-06,Piso,Venta,Barcelona,98,917378,2005-12-06 00:00:00,Pedro
+1198,2005-03-06,Oficina,Alquiler,Barcelona,42,235746,2005-07-25 00:00:00,Joaquín
+1199,2005-03-06,Local,Venta,Barcelona,60,474600,2005-10-01 00:00:00,Luisa
+1203,2005-03-07,Oficina,Venta,Barcelona,255,2151435,2005-08-26 00:00:00,Pedro
+1204,2005-03-07,Local,Venta,Barcelona,213,2105079,2005-07-25 00:00:00,Joaquín
+1205,2005-03-07,Suelo,Venta,Barcelona,117,953316,2005-12-27 00:00:00,María
+1211,2005-03-10,Casa,Venta,Barcelona,143,1246960,2005-09-28 00:00:00,Carmen
+1216,2005-03-11,Casa,Venta,Barcelona,184,1830800,2006-01-25 00:00:00,Pedro
+1218,2005-03-11,Suelo,Venta,Barcelona,251,2234653,2005-08-01 00:00:00,Luisa
+1220,2005-03-12,Local,Alquiler,Barcelona,269,2032295,2005-11-27 00:00:00,Joaquín
+1230,2005-03-16,Suelo,Venta,Barcelona,130,1292980,2005-11-11 00:00:00,Luisa
+1231,2005-03-16,Local,Alquiler,Barcelona,138,949578,2006-02-17 00:00:00,María
+1235,2005-03-18,Oficina,Venta,Barcelona,116,841232,2006-01-18 00:00:00,María
+1243,2005-03-20,Oficina,Alquiler,Barcelona,274,1152718,2005-07-31 00:00:00,Pedro
+1245,2005-03-21,Parking,Venta,Barcelona,68,367132,2005-08-31 00:00:00,Joaquín
+1246,2005-03-22,Industrial,Venta,Barcelona,268,1557884,2005-12-09 00:00:00,Luisa
+1248,2005-03-22,Parking,Alquiler,Barcelona,99,500148,2005-08-09 00:00:00,Joaquín
+1250,2005-03-23,Local,Alquiler,Barcelona,150,730350,2005-06-28 00:00:00,Carmen
+1251,2005-03-23,Oficina,Venta,Barcelona,126,867636,2005-11-02 00:00:00,Luisa
+1252,2005-03-23,Industrial,Alquiler,Barcelona,71,459725,2006-01-26 00:00:00,Joaquín
+1253,2005-03-24,Industrial,Venta,Barcelona,127,757809,2006-02-20 00:00:00,Luisa
+1259,2005-03-26,Industrial,Venta,Barcelona,91,485849,2005-07-24 00:00:00,Pedro
+1261,2005-03-26,Industrial,Alquiler,Barcelona,68,525096,2005-08-27 00:00:00,Joaquín
+1264,2005-03-28,Suelo,Alquiler,Barcelona,67,627321,2005-07-12 00:00:00,Joaquín
+1268,2005-03-30,Piso,Venta,Barcelona,138,1307688,2006-02-11 00:00:00,María
+1269,2005-03-30,Casa,Alquiler,Barcelona,88,531784,2006-01-11 00:00:00,Joaquín
+1286,2005-04-05,Suelo,Venta,Barcelona,194,1612334,2005-09-21 00:00:00,Jesús
+1293,2005-04-07,Local,Venta,Barcelona,102,480318,2006-01-12 00:00:00,Joaquín
+1297,2005-04-08,Industrial,Venta,Barcelona,248,1179488,2005-12-26 00:00:00,Jesús
+1299,2005-04-09,Suelo,Venta,Barcelona,71,309702,2005-08-09 00:00:00,Carmen
+1305,2005-04-14,Casa,Venta,Barcelona,274,2229812,2005-08-26 00:00:00,María
+1315,2005-04-17,Piso,Alquiler,Barcelona,223,1795819,2005-08-30 00:00:00,Luisa
+1324,2005-04-19,Piso,Alquiler,Barcelona,73,563122,2005-10-25 00:00:00,Carmen
+1325,2005-04-19,Industrial,Alquiler,Barcelona,152,651472,2005-09-13 00:00:00,Carmen
+1326,2005-04-19,Industrial,Venta,Barcelona,43,281521,2005-10-27 00:00:00,Jesús
+1327,2005-04-20,Parking,Alquiler,Barcelona,273,2306031,2005-09-25 00:00:00,Carmen
+1341,2005-04-25,Parking,Venta,Barcelona,194,1698664,2006-03-20 00:00:00,Carmen
+1342,2005-04-25,Suelo,Alquiler,Barcelona,269,2292149,2006-01-22 00:00:00,Carmen
+1345,2005-04-25,Local,Alquiler,Barcelona,50,333650,2005-12-16 00:00:00,Carmen
+1346,2005-04-26,Local,Venta,Barcelona,115,950015,2005-09-26 00:00:00,Pedro
+1348,2005-04-26,Casa,Venta,Barcelona,102,892704,2006-01-22 00:00:00,Joaquín
+1352,2005-04-27,Industrial,Alquiler,Barcelona,269,1702501,2005-12-10 00:00:00,Luisa
+1353,2005-04-28,Industrial,Venta,Barcelona,242,2418064,2005-10-24 00:00:00,Jesús
+1355,2005-04-28,Suelo,Venta,Barcelona,161,1421308,2005-11-12 00:00:00,Pedro
+1370,2005-05-03,Casa,Alquiler,Barcelona,77,406252,2006-02-25 00:00:00,María
+1371,2005-05-04,Industrial,Venta,Barcelona,286,2633774,2005-09-01 00:00:00,Carmen
+1373,2005-05-04,Local,Venta,Barcelona,214,1287210,2005-12-21 00:00:00,Joaquín
+1378,2005-05-06,Parking,Alquiler,Barcelona,119,1013523,2005-08-17 00:00:00,Joaquín
+1384,2005-05-08,Parking,Venta,Barcelona,258,2066064,2005-11-25 00:00:00,María
+1385,2005-05-08,Casa,Alquiler,Barcelona,245,1244600,2006-01-03 00:00:00,Luisa
+1393,2005-05-09,Casa,Venta,Barcelona,254,2011934,2006-03-04 00:00:00,Jesús
+1397,2005-05-10,Oficina,Alquiler,Barcelona,107,899014,2006-04-09 00:00:00,María
+1400,2005-05-13,Casa,Venta,Barcelona,280,2349200,2006-04-13 00:00:00,Pedro
+1403,2005-05-15,Local,Venta,Barcelona,188,1453428,2005-09-14 00:00:00,Joaquín
+1405,2005-05-15,Parking,Venta,Barcelona,163,1531222,2005-10-28 00:00:00,Joaquín
+1407,2005-05-16,Parking,Venta,Barcelona,185,1384355,2005-11-15 00:00:00,Luisa
+1412,2005-05-18,Oficina,Venta,Barcelona,159,742848,2005-10-12 00:00:00,Joaquín
+1414,2005-05-21,Suelo,Alquiler,Barcelona,179,896969,2005-09-14 00:00:00,Carmen
+1415,2005-05-21,Casa,Alquiler,Barcelona,97,834394,2006-05-20 00:00:00,Jesús
+1418,2005-05-21,Industrial,Alquiler,Barcelona,244,1300276,2006-03-21 00:00:00,Joaquín
+1420,2005-05-22,Industrial,Venta,Barcelona,196,1584856,2005-09-02 00:00:00,Joaquín
+1423,2005-05-23,Local,Alquiler,Barcelona,185,1583785,2005-09-17 00:00:00,Luisa
+1424,2005-05-23,Parking,Venta,Barcelona,63,516159,2006-03-13 00:00:00,Luisa
+1430,2005-05-25,Piso,Venta,Barcelona,208,1792128,2006-04-15 00:00:00,Jesús
+1431,2005-05-25,Suelo,Venta,Barcelona,54,264438,2005-08-23 00:00:00,Joaquín
+1436,2005-05-27,Industrial,Venta,Barcelona,261,1435239,2006-03-22 00:00:00,Joaquín
+1441,2005-05-29,Industrial,Venta,Barcelona,160,1496320,2006-05-08 00:00:00,María
+1444,2005-05-29,Piso,Alquiler,Barcelona,137,585812,2006-01-26 00:00:00,Luisa
+1446,2005-05-31,Oficina,Alquiler,Barcelona,96,567072,2005-10-30 00:00:00,Jesús
+1449,2005-06-01,Suelo,Alquiler,Barcelona,69,499698,2005-08-31 00:00:00,Pedro
+1450,2005-06-02,Suelo,Venta,Barcelona,269,1779435,2006-05-18 00:00:00,Jesús
+1465,2005-06-08,Suelo,Venta,Barcelona,132,802428,2006-02-15 00:00:00,Joaquín
+1472,2005-06-10,Piso,Venta,Barcelona,213,1955340,2006-04-23 00:00:00,Jesús
+1479,2005-06-13,Oficina,Venta,Barcelona,124,1053628,2006-04-13 00:00:00,María
+1481,2005-06-13,Suelo,Alquiler,Barcelona,157,868367,2006-06-03 00:00:00,Jesús
+1482,2005-06-13,Oficina,Venta,Barcelona,64,368384,2005-09-15 00:00:00,Jesús
+1483,2005-06-13,Parking,Alquiler,Barcelona,282,2677590,2006-04-08 00:00:00,Luisa
+1484,2005-06-14,Oficina,Venta,Barcelona,151,1484028,2006-03-24 00:00:00,Jesús
+1487,2005-06-15,Suelo,Alquiler,Barcelona,106,704476,2006-02-07 00:00:00,Joaquín
+1489,2005-06-16,Parking,Venta,Barcelona,112,691712,2006-04-10 00:00:00,Pedro
+1498,2005-06-19,Industrial,Alquiler,Barcelona,175,1084300,2005-10-10 00:00:00,Luisa
+1520,2005-06-29,Casa,Alquiler,Barcelona,53,399143,2005-11-08 00:00:00,Jesús
+1521,2005-06-29,Suelo,Venta,Barcelona,40,306120,2005-11-24 00:00:00,Carmen
+1533,2005-07-02,Local,Alquiler,Barcelona,217,1742293,2006-04-13 00:00:00,Pedro
+1536,2005-07-04,Piso,Venta,Barcelona,197,1035826,2006-05-27 00:00:00,Jesús
+1546,2005-07-07,Piso,Venta,Barcelona,214,1258534,2006-01-27 00:00:00,María
+1547,2005-07-08,Casa,Alquiler,Barcelona,45,330885,2006-04-16 00:00:00,Jesús
+1549,2005-07-09,Piso,Alquiler,Barcelona,176,804144,2005-11-24 00:00:00,María
+1551,2005-07-10,Parking,Venta,Barcelona,108,436428,2006-04-28 00:00:00,Jesús
+1552,2005-07-11,Piso,Alquiler,Barcelona,130,859040,2005-11-06 00:00:00,Joaquín
+1553,2005-07-11,Suelo,Venta,Barcelona,63,618786,2006-07-07 00:00:00,Luisa
+1554,2005-07-12,Suelo,Alquiler,Barcelona,132,708840,2005-11-03 00:00:00,Luisa
+1556,2005-07-12,Local,Venta,Barcelona,159,1582845,2006-04-15 00:00:00,Pedro
+1560,2005-07-15,Casa,Alquiler,Barcelona,291,1823406,2006-05-02 00:00:00,Pedro
+1569,2005-07-17,Parking,Alquiler,Barcelona,67,347931,2006-04-28 00:00:00,Pedro
+1570,2005-07-18,Casa,Venta,Barcelona,127,583692,2006-01-11 00:00:00,Carmen
+1571,2005-07-18,Local,Alquiler,Barcelona,300,1716300,2006-04-21 00:00:00,María
+1572,2005-07-18,Local,Venta,Barcelona,202,1271388,2006-01-10 00:00:00,Joaquín
+1573,2005-07-18,Piso,Alquiler,Barcelona,203,1699719,2006-01-10 00:00:00,Jesús
+1574,2005-07-19,Industrial,Venta,Barcelona,275,1620575,2006-02-18 00:00:00,Joaquín
+1591,2005-07-24,Parking,Venta,Barcelona,207,1107864,2006-05-15 00:00:00,Luisa
+1595,2005-07-25,Suelo,Alquiler,Barcelona,264,2133120,2006-01-26 00:00:00,María
+1602,2005-07-28,Piso,Alquiler,Barcelona,165,687720,2006-02-20 00:00:00,Carmen
+1604,2005-07-30,Casa,Alquiler,Barcelona,260,1301560,2005-12-29 00:00:00,Carmen
+1605,2005-07-31,Piso,Alquiler,Barcelona,211,1951328,2006-01-03 00:00:00,Luisa
+1607,2005-08-01,Oficina,Venta,Barcelona,139,740731,2006-03-14 00:00:00,María
+1622,2005-08-04,Industrial,Alquiler,Barcelona,47,286747,2006-06-10 00:00:00,Joaquín
+1625,2005-08-05,Local,Venta,Barcelona,188,1209216,2006-03-14 00:00:00,María
+1626,2005-08-06,Parking,Venta,Barcelona,245,1202705,2005-12-10 00:00:00,Jesús
+1630,2005-08-07,Local,Alquiler,Barcelona,300,1900200,2005-12-09 00:00:00,Pedro
+1634,2005-08-08,Piso,Alquiler,Barcelona,250,1669250,2006-01-04 00:00:00,María
+1636,2005-08-08,Parking,Venta,Barcelona,112,829808,2006-03-29 00:00:00,Joaquín
+1643,2005-08-10,Local,Venta,Barcelona,269,2384954,2006-02-12 00:00:00,María
+1648,2005-08-14,Local,Venta,Barcelona,119,906780,2005-11-21 00:00:00,Carmen
+1654,2005-08-15,Local,Alquiler,Barcelona,82,375232,2006-05-22 00:00:00,Jesús
+1656,2005-08-16,Casa,Alquiler,Barcelona,89,358670,2006-02-19 00:00:00,Luisa
+1657,2005-08-16,Parking,Alquiler,Barcelona,232,1643256,2006-02-22 00:00:00,María
+1658,2005-08-16,Suelo,Alquiler,Barcelona,221,1069640,2006-06-01 00:00:00,Joaquín
+1660,2005-08-17,Oficina,Venta,Barcelona,58,509356,2006-05-20 00:00:00,Luisa
+1662,2005-08-18,Parking,Alquiler,Barcelona,224,986048,2006-02-10 00:00:00,María
+1666,2005-08-22,Local,Venta,Barcelona,209,843106,2006-01-24 00:00:00,María
+1678,2005-08-27,Oficina,Venta,Barcelona,91,663845,2006-04-07 00:00:00,María
+1684,2005-08-28,Piso,Alquiler,Barcelona,254,1191260,2006-07-27 00:00:00,Pedro
+1695,2005-08-31,Industrial,Venta,Barcelona,158,1473982,2006-08-29 00:00:00,Carmen
+1697,2005-09-02,Industrial,Alquiler,Barcelona,213,1333593,2006-04-06 00:00:00,Jesús
+1698,2005-09-03,Industrial,Alquiler,Barcelona,202,1558430,2006-01-26 00:00:00,Jesús
+1699,2005-09-03,Parking,Venta,Barcelona,163,1150128,2006-03-18 00:00:00,Joaquín
+1700,2005-09-03,Piso,Venta,Barcelona,245,1517285,2006-05-07 00:00:00,Luisa
+1703,2005-09-06,Industrial,Venta,Barcelona,161,827057,2006-05-05 00:00:00,María
+1708,2005-09-07,Parking,Alquiler,Barcelona,173,842683,2006-01-30 00:00:00,Joaquín
+1709,2005-09-07,Local,Venta,Barcelona,272,2074000,2006-08-14 00:00:00,Joaquín
+1710,2005-09-08,Local,Venta,Barcelona,299,1424436,2006-01-17 00:00:00,Carmen
+1713,2005-09-09,Suelo,Venta,Barcelona,129,617652,2006-09-03 00:00:00,Joaquín
+1717,2005-09-09,Local,Venta,Barcelona,218,1911424,2006-07-22 00:00:00,Carmen
+1719,2005-09-10,Local,Venta,Barcelona,254,1668526,2005-12-29 00:00:00,Carmen
+1724,2005-09-11,Local,Alquiler,Barcelona,145,943805,2006-05-17 00:00:00,Luisa
+1731,2005-09-12,Oficina,Venta,Barcelona,66,415866,2006-07-19 00:00:00,María
+1732,2005-09-13,Industrial,Venta,Barcelona,140,864080,2006-02-08 00:00:00,Carmen
+1733,2005-09-13,Oficina,Alquiler,Barcelona,223,974956,2006-07-23 00:00:00,Luisa
+1736,2005-09-14,Piso,Venta,Barcelona,94,707914,2006-05-07 00:00:00,Jesús
+1745,2005-09-19,Parking,Alquiler,Barcelona,193,1540140,2006-08-08 00:00:00,Jesús
+1747,2005-09-21,Piso,Alquiler,Barcelona,111,656676,2006-02-05 00:00:00,Joaquín
+1754,2005-09-22,Casa,Venta,Barcelona,182,1305304,2006-06-06 00:00:00,Luisa
+1759,2005-09-25,Local,Alquiler,Barcelona,98,683844,2006-01-21 00:00:00,Joaquín
+1763,2005-09-27,Piso,Alquiler,Barcelona,187,911064,2006-02-24 00:00:00,María
+1764,2005-09-29,Industrial,Alquiler,Barcelona,121,490897,2006-09-27 00:00:00,María
+1765,2005-09-29,Oficina,Venta,Barcelona,231,2299374,2006-05-15 00:00:00,Jesús
+1767,2005-09-30,Suelo,Alquiler,Barcelona,79,409378,2006-08-15 00:00:00,Luisa
+1769,2005-10-01,Piso,Venta,Barcelona,164,878712,2006-01-21 00:00:00,María
+1772,2005-10-01,Casa,Venta,Barcelona,132,850476,2006-05-20 00:00:00,Jesús
+1777,2005-10-02,Local,Alquiler,Barcelona,204,1929228,2006-05-14 00:00:00,Pedro
+1778,2005-10-02,Suelo,Alquiler,Barcelona,68,613496,2006-01-18 00:00:00,Jesús
+1779,2005-10-02,Casa,Venta,Barcelona,180,979560,2006-06-09 00:00:00,María
+1780,2005-10-02,Casa,Venta,Barcelona,55,264385,2006-07-27 00:00:00,Joaquín
+1781,2005-10-02,Casa,Alquiler,Barcelona,258,1146552,2006-07-26 00:00:00,Luisa
+1791,2005-10-05,Local,Venta,Barcelona,106,804540,2006-10-02 00:00:00,Pedro
+1792,2005-10-05,Casa,Alquiler,Barcelona,274,1753052,2006-02-28 00:00:00,Joaquín
+1794,2005-10-05,Oficina,Venta,Barcelona,224,1420160,2006-05-03 00:00:00,Jesús
+1797,2005-10-06,Local,Alquiler,Barcelona,211,1522998,2006-06-02 00:00:00,Luisa
+1801,2005-10-07,Oficina,Venta,Barcelona,158,909606,2006-06-19 00:00:00,Carmen
+1803,2005-10-07,Suelo,Venta,Barcelona,116,857936,2006-01-23 00:00:00,Luisa
+1804,2005-10-07,Suelo,Venta,Barcelona,242,1963104,2006-07-19 00:00:00,Pedro
+1809,2005-10-11,Industrial,Venta,Barcelona,64,480384,2006-05-15 00:00:00,Carmen
+1811,2005-10-12,Oficina,Venta,Barcelona,124,945624,2006-05-22 00:00:00,Joaquín
+1813,2005-10-12,Local,Alquiler,Barcelona,56,346192,2006-04-18 00:00:00,María
+1822,2005-10-15,Parking,Alquiler,Barcelona,271,2334123,2006-08-02 00:00:00,Joaquín
+1825,2005-10-16,Suelo,Venta,Barcelona,228,994536,2006-03-27 00:00:00,Joaquín
+1827,2005-10-16,Local,Venta,Barcelona,214,1687604,2006-01-22 00:00:00,Luisa
+1835,2005-10-20,Parking,Alquiler,Barcelona,133,745864,2006-06-01 00:00:00,María
+1839,2005-10-22,Suelo,Alquiler,Barcelona,276,1544496,2006-05-12 00:00:00,Carmen
+1849,2005-10-28,Parking,Alquiler,Barcelona,218,991900,2006-05-28 00:00:00,Jesús
+1852,2005-10-28,Industrial,Alquiler,Barcelona,224,1422624,2006-03-12 00:00:00,Luisa
+1853,2005-10-28,Suelo,Venta,Barcelona,249,1878954,2006-10-28 00:00:00,Luisa
+1861,2005-11-02,Parking,Venta,Barcelona,249,2221329,2006-05-12 00:00:00,Pedro
+1883,2005-11-10,Local,Alquiler,Barcelona,246,2216214,2006-04-17 00:00:00,María
+1886,2005-11-13,Parking,Venta,Barcelona,156,692484,2006-02-19 00:00:00,Pedro
+1890,2005-11-13,Local,Alquiler,Barcelona,89,499735,2006-08-19 00:00:00,María
+1892,2005-11-13,Oficina,Alquiler,Barcelona,70,526680,2006-02-17 00:00:00,Joaquín
+1896,2005-11-15,Oficina,Alquiler,Barcelona,62,421290,2006-05-21 00:00:00,Joaquín
+1898,2005-11-16,Industrial,Alquiler,Barcelona,114,878940,2006-10-18 00:00:00,Luisa
+1902,2005-11-19,Parking,Venta,Barcelona,145,1213505,2006-11-05 00:00:00,Pedro
+1910,2005-11-21,Casa,Alquiler,Barcelona,113,1059827,2006-10-21 00:00:00,Joaquín
+1924,2005-11-25,Industrial,Alquiler,Barcelona,276,1817736,2006-09-14 00:00:00,Joaquín
+1932,2005-11-27,Industrial,Alquiler,Barcelona,180,1688040,2006-07-07 00:00:00,Luisa
+1935,2005-11-28,Piso,Venta,Barcelona,249,1780350,2006-03-14 00:00:00,Luisa
+1945,2005-12-03,Piso,Alquiler,Barcelona,264,2147112,2006-05-10 00:00:00,Joaquín
+1947,2005-12-04,Casa,Alquiler,Barcelona,176,1685904,2006-07-29 00:00:00,Pedro
+1948,2005-12-05,Piso,Venta,Barcelona,85,693515,2006-03-31 00:00:00,Luisa
+1949,2005-12-05,Industrial,Venta,Barcelona,67,324213,2006-04-10 00:00:00,Luisa
+1954,2005-12-07,Casa,Venta,Barcelona,150,753900,2006-03-30 00:00:00,María
+1956,2005-12-08,Oficina,Alquiler,Barcelona,293,2868470,2006-03-18 00:00:00,Luisa
+1960,2005-12-09,Suelo,Venta,Barcelona,171,807120,2006-11-21 00:00:00,Pedro
+1961,2005-12-11,Suelo,Venta,Barcelona,238,2203166,2006-05-01 00:00:00,Carmen
+1965,2005-12-13,Local,Venta,Barcelona,66,270996,2006-07-04 00:00:00,Luisa
+1968,2005-12-16,Piso,Venta,Barcelona,259,1842785,2006-07-19 00:00:00,María
+1969,2005-12-16,Casa,Venta,Barcelona,106,856692,2006-06-12 00:00:00,María
+1974,2005-12-17,Suelo,Alquiler,Barcelona,147,907137,2006-06-19 00:00:00,Jesús
+1975,2005-12-17,Local,Venta,Barcelona,165,1393095,2006-12-15 00:00:00,Carmen
+1978,2005-12-20,Industrial,Alquiler,Barcelona,238,2136288,2006-09-01 00:00:00,María
+1981,2005-12-21,Piso,Venta,Barcelona,248,1036392,2006-12-03 00:00:00,Luisa
+1982,2005-12-21,Suelo,Alquiler,Barcelona,243,2390634,2006-06-26 00:00:00,Luisa
+1985,2005-12-21,Oficina,Alquiler,Barcelona,190,940500,2006-12-11 00:00:00,Joaquín
+1988,2005-12-22,Casa,Venta,Barcelona,276,2548584,2006-10-13 00:00:00,Jesús
+1994,2005-12-23,Local,Alquiler,Barcelona,267,2263626,2006-07-04 00:00:00,Pedro
+2000,2005-12-25,Suelo,Venta,Barcelona,265,1348055,2006-07-19 00:00:00,Joaquín
+2001,2005-12-25,Casa,Venta,Barcelona,283,1653852,2006-08-28 00:00:00,María
+2003,2005-12-26,Oficina,Alquiler,Barcelona,56,296856,2006-06-06 00:00:00,María
+2006,2005-12-27,Oficina,Alquiler,Barcelona,54,402462,2006-10-06 00:00:00,Pedro
+2007,2005-12-27,Casa,Alquiler,Barcelona,221,1401361,2006-03-30 00:00:00,Jesús
+2009,2005-12-27,Piso,Venta,Barcelona,158,1040746,2006-09-25 00:00:00,Luisa
+2016,2005-12-31,Parking,Alquiler,Barcelona,202,1329968,2006-10-22 00:00:00,María
+2017,2006-01-01,Industrial,Venta,Barcelona,75,545925,2006-09-08 00:00:00,Joaquín
+2025,2006-01-03,Oficina,Alquiler,Barcelona,216,1109808,2006-06-24 00:00:00,Joaquín
+2027,2006-01-03,Local,Venta,Barcelona,122,680760,2006-05-01 00:00:00,María
+2028,2006-01-03,Local,Alquiler,Barcelona,179,1176209,2006-06-29 00:00:00,Carmen
+2029,2006-01-03,Casa,Alquiler,Barcelona,229,2219468,2006-07-12 00:00:00,Luisa
+2035,2006-01-05,Parking,Venta,Barcelona,90,446940,2006-06-26 00:00:00,María
+2036,2006-01-06,Local,Venta,Barcelona,110,700700,2006-04-20 00:00:00,Pedro
+2037,2006-01-06,Local,Alquiler,Barcelona,283,2107784,2006-04-19 00:00:00,María
+2038,2006-01-06,Parking,Venta,Barcelona,199,1139076,2006-06-21 00:00:00,Joaquín
+2041,2006-01-08,Suelo,Venta,Barcelona,80,539280,2006-08-01 00:00:00,María
+2046,2006-01-09,Piso,Alquiler,Barcelona,249,2053005,2006-07-24 00:00:00,Luisa
+2048,2006-01-10,Casa,Venta,Barcelona,275,1856525,2006-09-04 00:00:00,Jesús
+2049,2006-01-10,Casa,Alquiler,Barcelona,180,1741320,2006-06-08 00:00:00,María
+2054,2006-01-11,Industrial,Alquiler,Barcelona,271,1196465,2006-08-05 00:00:00,Jesús
+2056,2006-01-12,Industrial,Alquiler,Barcelona,54,419256,2006-11-30 00:00:00,María
+2058,2006-01-13,Oficina,Alquiler,Barcelona,98,738430,2006-12-28 00:00:00,Luisa
+2059,2006-01-13,Oficina,Venta,Barcelona,207,1437408,2006-08-21 00:00:00,María
+2062,2006-01-13,Suelo,Venta,Barcelona,274,1450556,2006-09-03 00:00:00,María
+2063,2006-01-14,Industrial,Alquiler,Barcelona,144,1331856,2006-12-19 00:00:00,Luisa
+2068,2006-01-15,Oficina,Alquiler,Barcelona,199,1685132,2006-11-07 00:00:00,Joaquín
+2069,2006-01-15,Suelo,Venta,Barcelona,245,2399040,2006-05-31 00:00:00,Joaquín
+2071,2006-01-15,Casa,Venta,Barcelona,93,808170,2006-07-03 00:00:00,Jesús
+2073,2006-01-16,Industrial,Venta,Barcelona,80,363280,2006-12-19 00:00:00,Pedro
+2075,2006-01-17,Piso,Venta,Barcelona,267,1074675,2006-10-20 00:00:00,Carmen
+2077,2006-01-17,Oficina,Alquiler,Barcelona,123,609342,2006-05-10 00:00:00,Carmen
+2078,2006-01-17,Industrial,Alquiler,Barcelona,221,1411969,2006-07-26 00:00:00,Pedro
+2086,2006-01-20,Parking,Alquiler,Barcelona,265,2119735,2006-10-15 00:00:00,Pedro
+2103,2006-01-25,Oficina,Venta,Barcelona,223,1970874,2006-06-08 00:00:00,Joaquín
+2109,2006-01-26,Suelo,Alquiler,Barcelona,273,1528254,2006-06-15 00:00:00,Pedro
+2122,2006-01-31,Local,Venta,Barcelona,56,550816,2006-12-03 00:00:00,Jesús
+2124,2006-02-01,Casa,Venta,Barcelona,95,650750,2006-09-24 00:00:00,Carmen
+2125,2006-02-01,Piso,Venta,Barcelona,252,2381400,2006-06-13 00:00:00,María
+2128,2006-02-02,Casa,Alquiler,Barcelona,234,1286766,2006-10-12 00:00:00,Luisa
+2132,2006-02-03,Casa,Venta,Barcelona,40,190280,2006-11-22 00:00:00,Joaquín
+2146,2006-02-07,Casa,Venta,Barcelona,104,682240,2006-08-30 00:00:00,Jesús
+2148,2006-02-08,Oficina,Alquiler,Barcelona,142,693244,2006-09-19 00:00:00,Jesús
+2149,2006-02-08,Industrial,Alquiler,Barcelona,211,1155436,2006-12-27 00:00:00,Pedro
+2151,2006-02-09,Piso,Venta,Barcelona,293,1298869,2006-07-11 00:00:00,Jesús
+2152,2006-02-09,Parking,Venta,Barcelona,227,2001232,2006-12-06 00:00:00,María
+2158,2006-02-11,Oficina,Venta,Barcelona,233,1157544,2006-06-10 00:00:00,Jesús
+2161,2006-02-12,Piso,Alquiler,Barcelona,184,864248,2006-07-18 00:00:00,María
+2164,2006-02-13,Casa,Venta,Barcelona,83,444299,2007-01-18 00:00:00,Joaquín
+2166,2006-02-15,Suelo,Venta,Barcelona,149,1436211,2007-02-01 00:00:00,María
+2170,2006-02-16,Industrial,Alquiler,Barcelona,114,636918,2007-01-10 00:00:00,Luisa
+2176,2006-02-17,Suelo,Alquiler,Barcelona,78,366132,2006-11-20 00:00:00,Jesús
+2185,2006-02-20,Parking,Alquiler,Barcelona,228,1815336,2006-06-10 00:00:00,Jesús
+2192,2006-02-21,Parking,Alquiler,Barcelona,260,2470000,2006-05-27 00:00:00,Luisa
+2195,2006-02-22,Oficina,Alquiler,Barcelona,64,319616,2006-07-06 00:00:00,Carmen
+2197,2006-02-22,Local,Venta,Barcelona,110,704770,2007-01-17 00:00:00,Pedro
+2200,2006-02-24,Industrial,Alquiler,Barcelona,257,1598283,2007-02-03 00:00:00,Luisa
+2201,2006-02-24,Parking,Venta,Barcelona,135,764505,2006-06-10 00:00:00,Pedro
+2206,2006-02-28,Casa,Venta,Barcelona,281,2577332,2006-07-03 00:00:00,Carmen
+2211,2006-03-01,Local,Venta,Barcelona,287,1351196,2006-06-18 00:00:00,Jesús
+2217,2006-03-03,Casa,Alquiler,Barcelona,243,1918728,2006-07-26 00:00:00,Luisa
+2223,2006-03-05,Parking,Venta,Barcelona,293,1996209,2006-07-26 00:00:00,Jesús
+2231,2006-03-07,Parking,Venta,Barcelona,227,2257515,2007-02-06 00:00:00,Luisa
+2233,2006-03-08,Oficina,Alquiler,Barcelona,177,1191033,2006-06-27 00:00:00,Carmen
+2234,2006-03-08,Suelo,Venta,Barcelona,62,500836,2007-02-16 00:00:00,Joaquín
+2242,2006-03-11,Piso,Alquiler,Barcelona,45,446940,2006-07-17 00:00:00,Pedro
+2244,2006-03-13,Parking,Alquiler,Barcelona,182,1489124,2007-02-22 00:00:00,Pedro
+2247,2006-03-13,Casa,Venta,Barcelona,143,616044,2007-01-19 00:00:00,Carmen
+2249,2006-03-14,Industrial,Alquiler,Barcelona,63,343602,2006-10-16 00:00:00,Carmen
+2255,2006-03-17,Industrial,Alquiler,Barcelona,121,764115,2006-11-19 00:00:00,Joaquín
+2257,2006-03-18,Parking,Alquiler,Barcelona,60,358620,2006-11-26 00:00:00,María
+2259,2006-03-19,Oficina,Alquiler,Barcelona,83,743265,2007-01-03 00:00:00,Joaquín
+2266,2006-03-21,Local,Venta,Barcelona,151,776442,2006-08-21 00:00:00,Jesús
+2275,2006-03-26,Casa,Alquiler,Barcelona,235,2145315,2007-02-09 00:00:00,Joaquín
+2280,2006-03-28,Suelo,Alquiler,Barcelona,254,1558036,2007-03-15 00:00:00,María
+2288,2006-03-31,Industrial,Venta,Barcelona,111,882783,2006-09-07 00:00:00,María
+2291,2006-03-31,Suelo,Venta,Barcelona,295,1490930,2007-03-14 00:00:00,Joaquín
+2294,2006-04-01,Local,Venta,Barcelona,155,1425690,2006-11-08 00:00:00,Jesús
+2303,2006-04-04,Local,Venta,Barcelona,185,779220,2006-10-26 00:00:00,María
+2304,2006-04-04,Casa,Alquiler,Barcelona,180,1071720,2007-03-31 00:00:00,Carmen
+2313,2006-04-07,Suelo,Alquiler,Barcelona,234,1475136,2006-09-18 00:00:00,Carmen
+2321,2006-04-09,Casa,Alquiler,Barcelona,45,402885,2007-03-28 00:00:00,Joaquín
+2324,2006-04-10,Parking,Alquiler,Barcelona,89,711199,2006-08-21 00:00:00,Carmen
+2327,2006-04-11,Local,Alquiler,Barcelona,130,1276600,2007-01-04 00:00:00,María
+2333,2006-04-13,Industrial,Venta,Barcelona,288,1781568,2006-09-24 00:00:00,María
+2335,2006-04-14,Industrial,Alquiler,Barcelona,189,1192401,2007-03-20 00:00:00,Carmen
+2336,2006-04-14,Local,Venta,Barcelona,193,1826938,2006-09-12 00:00:00,Pedro
+2344,2006-04-20,Oficina,Alquiler,Barcelona,89,673552,2007-01-21 00:00:00,Luisa
+2352,2006-04-22,Oficina,Venta,Barcelona,160,745600,2007-01-06 00:00:00,Joaquín
+2354,2006-04-22,Casa,Venta,Barcelona,289,1504823,2006-10-31 00:00:00,Luisa
+2360,2006-04-26,Local,Venta,Barcelona,218,2136182,2007-01-14 00:00:00,Luisa
+2372,2006-04-30,Piso,Venta,Barcelona,200,1996000,2006-08-05 00:00:00,Joaquín
+2377,2006-05-02,Local,Venta,Barcelona,292,1538256,2007-05-01 00:00:00,Jesús
+2378,2006-05-02,Piso,Venta,Barcelona,233,1220454,2007-04-18 00:00:00,Carmen
+2381,2006-05-03,Casa,Venta,Barcelona,148,749472,2006-10-26 00:00:00,María
+2384,2006-05-03,Industrial,Alquiler,Barcelona,188,1769644,2007-02-23 00:00:00,Carmen
+2390,2006-05-08,Casa,Alquiler,Barcelona,257,1591344,2007-01-19 00:00:00,Luisa
+2395,2006-05-11,Local,Venta,Barcelona,170,1602930,2006-11-05 00:00:00,Joaquín
+2396,2006-05-12,Parking,Alquiler,Barcelona,236,2001280,2007-03-04 00:00:00,Jesús
+2404,2006-05-14,Parking,Alquiler,Barcelona,210,1371720,2007-03-26 00:00:00,Pedro
+2406,2006-05-14,Local,Venta,Barcelona,139,560170,2006-08-27 00:00:00,Jesús
+2423,2006-05-20,Oficina,Alquiler,Barcelona,225,1752975,2006-09-22 00:00:00,Jesús
+2424,2006-05-20,Suelo,Venta,Barcelona,285,2603190,2006-11-15 00:00:00,Joaquín
+2426,2006-05-21,Parking,Venta,Barcelona,213,928041,2006-12-10 00:00:00,Luisa
+2431,2006-05-22,Local,Alquiler,Barcelona,232,1699168,2006-08-27 00:00:00,Carmen
+2438,2006-05-26,Piso,Alquiler,Barcelona,43,379905,2006-12-26 00:00:00,Jesús
+2440,2006-05-27,Piso,Alquiler,Barcelona,207,1381104,2007-04-30 00:00:00,María
+2448,2006-05-29,Suelo,Venta,Barcelona,228,2203620,2007-03-29 00:00:00,Joaquín
+2450,2006-05-30,Oficina,Venta,Barcelona,65,458640,2006-11-26 00:00:00,Joaquín
+2455,2006-05-31,Casa,Venta,Barcelona,156,916500,2006-09-11 00:00:00,Joaquín
+2459,2006-06-02,Casa,Alquiler,Barcelona,209,2017268,2007-01-26 00:00:00,Luisa
+2467,2006-06-04,Piso,Venta,Barcelona,57,360696,2007-02-05 00:00:00,Pedro
+2468,2006-06-04,Casa,Venta,Barcelona,260,1616680,2007-04-25 00:00:00,Carmen
+2472,2006-06-05,Parking,Alquiler,Barcelona,173,1251828,2007-03-04 00:00:00,Joaquín
+2481,2006-06-06,Industrial,Venta,Barcelona,215,984915,2006-12-07 00:00:00,María
+2495,2006-06-11,Piso,Venta,Barcelona,149,701492,2006-11-02 00:00:00,Carmen
+2497,2006-06-11,Piso,Alquiler,Barcelona,126,1102500,2006-10-13 00:00:00,Pedro
+2499,2006-06-11,Oficina,Venta,Barcelona,165,1204005,2007-01-23 00:00:00,María
+2503,2006-06-13,Local,Venta,Barcelona,245,2090340,,
+2509,2006-06-16,Suelo,Venta,Barcelona,146,954986,2007-04-23 00:00:00,María
+2512,2006-06-17,Casa,Venta,Barcelona,180,887940,2006-10-12 00:00:00,Jesús
+2522,2006-06-21,Casa,Alquiler,Barcelona,241,1327669,2007-03-10 00:00:00,Jesús
+2527,2006-06-24,Suelo,Alquiler,Barcelona,177,718266,2007-03-20 00:00:00,Joaquín
+2528,2006-06-24,Suelo,Alquiler,Barcelona,281,1521615,2007-04-19 00:00:00,Carmen
+2529,2006-06-24,Parking,Alquiler,Barcelona,113,797215,2006-12-03 00:00:00,María
+2543,2006-07-01,Industrial,Alquiler,Barcelona,160,774400,2007-02-07 00:00:00,Joaquín
+2549,2006-07-02,Parking,Alquiler,Barcelona,163,1298947,2006-12-23 00:00:00,María
+2553,2006-07-04,Industrial,Alquiler,Barcelona,275,2415325,2006-12-17 00:00:00,Carmen
+2554,2006-07-04,Casa,Venta,Barcelona,267,2091144,2006-12-24 00:00:00,Luisa
+2555,2006-07-04,Oficina,Venta,Barcelona,250,1298500,2006-11-24 00:00:00,Joaquín
+2556,2006-07-05,Parking,Alquiler,Barcelona,283,1470185,2006-12-18 00:00:00,Jesús
+2557,2006-07-06,Industrial,Alquiler,Barcelona,212,1758964,2007-03-24 00:00:00,Luisa
+2562,2006-07-08,Piso,Alquiler,Barcelona,245,1284045,2007-05-07 00:00:00,Joaquín
+2564,2006-07-08,Local,Alquiler,Barcelona,155,845370,2007-04-13 00:00:00,Joaquín
+2565,2006-07-09,Oficina,Venta,Barcelona,81,654885,2006-11-13 00:00:00,Pedro
+2566,2006-07-09,Suelo,Venta,Barcelona,157,914839,2006-10-21 00:00:00,Jesús
+2569,2006-07-10,Parking,Venta,Barcelona,93,512430,2007-04-28 00:00:00,Carmen
+2573,2006-07-11,Parking,Venta,Barcelona,256,2470912,,
+2575,2006-07-13,Suelo,Venta,Barcelona,167,888941,2007-04-19 00:00:00,Luisa
+2582,2006-07-17,Suelo,Alquiler,Barcelona,155,950615,2006-11-15 00:00:00,María
+2583,2006-07-17,Suelo,Alquiler,Barcelona,234,1016964,2007-03-18 00:00:00,Luisa
+2586,2006-07-18,Casa,Venta,Barcelona,229,1634373,2006-12-19 00:00:00,Jesús
+2587,2006-07-18,Industrial,Venta,Barcelona,193,1559054,,
+2588,2006-07-18,Industrial,Alquiler,Barcelona,132,949344,,
+2595,2006-07-21,Oficina,Venta,Barcelona,258,1700994,2006-10-23 00:00:00,Jesús
+2597,2006-07-21,Oficina,Alquiler,Barcelona,91,659022,2007-02-26 00:00:00,Pedro
+2599,2006-07-22,Parking,Venta,Barcelona,64,485824,2007-02-24 00:00:00,María
+2603,2006-07-24,Oficina,Venta,Barcelona,112,670208,2007-02-25 00:00:00,María
+2609,2006-07-27,Oficina,Venta,Barcelona,143,1365936,2007-03-13 00:00:00,María
+2612,2006-07-28,Casa,Venta,Barcelona,294,2618364,,
+2614,2006-07-28,Casa,Alquiler,Barcelona,239,2199995,2007-03-04 00:00:00,Jesús
+2616,2006-07-29,Suelo,Alquiler,Barcelona,117,610740,2007-04-06 00:00:00,María
+2618,2006-07-30,Local,Alquiler,Barcelona,93,867783,2006-12-30 00:00:00,María
+2635,2006-08-07,Parking,Alquiler,Barcelona,169,1673607,2007-01-07 00:00:00,Luisa
+2643,2006-08-09,Industrial,Venta,Barcelona,282,2205240,,
+2646,2006-08-11,Industrial,Alquiler,Barcelona,270,1705320,2007-03-26 00:00:00,Luisa
+2647,2006-08-11,Local,Alquiler,Barcelona,220,1772540,2006-12-25 00:00:00,Pedro
+2650,2006-08-12,Industrial,Alquiler,Barcelona,126,1199394,,
+2652,2006-08-13,Parking,Venta,Barcelona,110,643060,2006-12-24 00:00:00,Carmen
+2655,2006-08-13,Oficina,Alquiler,Barcelona,86,733236,2006-12-15 00:00:00,Jesús
+2656,2006-08-14,Oficina,Alquiler,Barcelona,192,1622400,2006-11-16 00:00:00,Carmen
+2665,2006-08-21,Oficina,Venta,Barcelona,258,2539236,2007-01-11 00:00:00,Joaquín
+2669,2006-08-22,Suelo,Alquiler,Barcelona,215,1694630,,
+2671,2006-08-22,Local,Venta,Barcelona,128,996096,2007-04-27 00:00:00,Luisa
+2672,2006-08-22,Parking,Alquiler,Barcelona,40,380280,2007-03-29 00:00:00,Jesús
+2673,2006-08-23,Casa,Venta,Barcelona,173,760854,2007-03-13 00:00:00,Jesús
+2674,2006-08-23,Piso,Venta,Barcelona,41,219145,2006-12-21 00:00:00,Carmen
+2680,2006-08-26,Parking,Alquiler,Barcelona,61,531493,2007-01-03 00:00:00,Jesús
+2682,2006-08-26,Parking,Alquiler,Barcelona,59,307744,2007-04-28 00:00:00,María
+2683,2006-08-27,Suelo,Alquiler,Barcelona,67,506252,,
+2686,2006-08-28,Piso,Alquiler,Barcelona,146,1287428,,
+2689,2006-08-29,Local,Venta,Barcelona,272,2399312,2006-12-28 00:00:00,Luisa
+2696,2006-08-31,Oficina,Venta,Barcelona,298,2977318,,
+2697,2006-09-01,Local,Alquiler,Barcelona,43,403770,2007-02-28 00:00:00,Jesús
+2702,2006-09-04,Casa,Venta,Barcelona,289,2534241,2007-01-28 00:00:00,María
+2703,2006-09-04,Casa,Alquiler,Barcelona,221,1556282,,
+2721,2006-09-10,Parking,Venta,Barcelona,251,2180939,,
+2729,2006-09-13,Parking,Venta,Barcelona,68,583236,,
+2730,2006-09-13,Piso,Venta,Barcelona,294,2885316,2007-02-13 00:00:00,María
+2736,2006-09-16,Oficina,Alquiler,Barcelona,72,604440,,
+2740,2006-09-19,Industrial,Venta,Barcelona,144,672192,2007-02-15 00:00:00,María
+2744,2006-09-19,Oficina,Venta,Barcelona,164,1040252,2007-01-02 00:00:00,Carmen
+2745,2006-09-20,Suelo,Venta,Barcelona,131,1134984,,
+2750,2006-09-21,Industrial,Alquiler,Barcelona,279,1262196,2007-04-24 00:00:00,Jesús
+2753,2006-09-23,Piso,Venta,Barcelona,254,2001266,2007-02-10 00:00:00,Luisa
+2759,2006-09-25,Piso,Alquiler,Barcelona,110,641080,2007-01-31 00:00:00,Carmen
+2766,2006-09-29,Industrial,Venta,Barcelona,216,1734264,2007-05-06 00:00:00,Pedro
+2767,2006-09-29,Casa,Venta,Barcelona,258,1536906,,
+2772,2006-10-02,Piso,Venta,Barcelona,292,1536212,,
+2774,2006-10-03,Local,Venta,Barcelona,192,1484544,,
+2781,2006-10-05,Industrial,Venta,Barcelona,182,896532,,
+2783,2006-10-06,Oficina,Venta,Barcelona,272,2008176,,
+2787,2006-10-08,Piso,Alquiler,Barcelona,59,552476,,
+2790,2006-10-08,Piso,Venta,Barcelona,99,914463,2007-01-22 00:00:00,Jesús
+2795,2006-10-09,Local,Alquiler,Barcelona,191,1345213,,
+2798,2006-10-11,Oficina,Alquiler,Barcelona,178,1319336,,
+2799,2006-10-11,Casa,Venta,Barcelona,212,2108128,,
+2806,2006-10-14,Piso,Venta,Barcelona,133,1066527,2007-04-30 00:00:00,Luisa
+2812,2006-10-17,Industrial,Venta,Barcelona,292,1905300,2007-03-12 00:00:00,Carmen
+2813,2006-10-17,Casa,Alquiler,Barcelona,128,544896,,
+2815,2006-10-18,Industrial,Alquiler,Barcelona,92,538568,,
+2825,2006-10-23,Industrial,Alquiler,Barcelona,242,1250172,2007-03-08 00:00:00,María
+2838,2006-10-26,Local,Venta,Barcelona,53,506256,,
+2840,2006-10-29,Industrial,Alquiler,Barcelona,172,1167020,2007-03-28 00:00:00,Pedro
+2849,2006-10-31,Parking,Venta,Barcelona,285,1638750,2007-05-04 00:00:00,Carmen
+2856,2006-11-03,Suelo,Alquiler,Barcelona,283,2569923,2007-03-28 00:00:00,Pedro
+2860,2006-11-03,Suelo,Alquiler,Barcelona,76,354084,,
+2868,2006-11-05,Industrial,Alquiler,Barcelona,75,480600,,
+2869,2006-11-05,Casa,Alquiler,Barcelona,212,1357648,2007-04-25 00:00:00,Luisa
+2872,2006-11-07,Industrial,Venta,Barcelona,136,1262624,2007-03-27 00:00:00,Carmen
+2876,2006-11-08,Local,Alquiler,Barcelona,174,799356,,
+2882,2006-11-09,Casa,Venta,Barcelona,70,407610,,
+2887,2006-11-11,Local,Alquiler,Barcelona,239,1197390,,
+2889,2006-11-12,Industrial,Venta,Barcelona,72,449064,,
+2891,2006-11-13,Industrial,Venta,Barcelona,262,2517034,,
+2902,2006-11-19,Piso,Venta,Barcelona,199,1370911,,
+2912,2006-11-24,Parking,Venta,Barcelona,131,1008176,,
+2914,2006-11-24,Parking,Venta,Barcelona,185,1635030,,
+2917,2006-11-27,Casa,Alquiler,Barcelona,141,1045233,,
+2924,2006-11-28,Casa,Venta,Barcelona,49,367206,2007-04-03 00:00:00,Jesús
+2930,2006-11-29,Local,Venta,Barcelona,230,1847590,,
+2933,2006-11-30,Casa,Venta,Barcelona,261,1752093,,
+2935,2006-11-30,Casa,Venta,Barcelona,219,883446,,
+2938,2006-12-02,Parking,Venta,Barcelona,187,1274218,,
+2939,2006-12-02,Local,Venta,Barcelona,94,789976,2007-03-08 00:00:00,María
+2940,2006-12-03,Piso,Venta,Barcelona,274,2474220,,
+2942,2006-12-04,Piso,Venta,Barcelona,261,2198403,2007-03-09 00:00:00,Joaquín
+2946,2006-12-06,Suelo,Venta,Barcelona,186,1367100,,
+2953,2006-12-08,Local,Venta,Barcelona,185,1255595,,
+2964,2006-12-11,Local,Venta,Barcelona,128,752896,,
+2965,2006-12-12,Parking,Alquiler,Barcelona,147,679140,,
+2966,2006-12-12,Casa,Venta,Barcelona,43,305128,,
+2969,2006-12-14,Local,Alquiler,Barcelona,200,1385200,2007-03-31 00:00:00,Joaquín
+2970,2006-12-14,Industrial,Alquiler,Barcelona,291,2797092,,
+2972,2006-12-15,Casa,Venta,Barcelona,134,1295914,,
+2979,2006-12-17,Casa,Alquiler,Barcelona,200,1957200,,
+2980,2006-12-17,Piso,Alquiler,Barcelona,182,1421056,2007-04-04 00:00:00,María
+2981,2006-12-17,Oficina,Alquiler,Barcelona,72,339192,,
+2984,2006-12-19,Parking,Venta,Barcelona,200,1407200,,
+2985,2006-12-19,Casa,Venta,Barcelona,281,2244066,2007-03-26 00:00:00,Joaquín
+2989,2006-12-20,Suelo,Venta,Barcelona,48,247584,2007-04-08 00:00:00,Joaquín
+2990,2006-12-21,Parking,Venta,Barcelona,139,562394,,
+2992,2006-12-22,Casa,Alquiler,Barcelona,100,835600,,
+2994,2006-12-23,Parking,Venta,Barcelona,237,1997436,,
+2998,2006-12-24,Suelo,Venta,Barcelona,263,1403631,,
+3012,2006-12-29,Oficina,Venta,Barcelona,257,1245165,,
+3016,2006-12-30,Casa,Alquiler,Barcelona,264,1060488,2007-04-28 00:00:00,Joaquín
+3021,2007-01-01,Parking,Alquiler,Barcelona,106,906830,,
+3036,2007-01-09,Oficina,Venta,Barcelona,196,1022140,,
+3038,2007-01-09,Suelo,Alquiler,Barcelona,185,1156990,,
+3041,2007-01-09,Parking,Venta,Barcelona,64,610816,,
+3044,2007-01-10,Piso,Alquiler,Barcelona,222,1296258,,
+3045,2007-01-10,Parking,Venta,Barcelona,233,1077858,2007-04-30 00:00:00,María
+3046,2007-01-10,Oficina,Alquiler,Barcelona,196,1880032,,
+3049,2007-01-11,Oficina,Venta,Barcelona,100,440500,,
+3050,2007-01-11,Casa,Venta,Barcelona,259,1369333,,
+3055,2007-01-13,Piso,Alquiler,Barcelona,70,511700,,
+3056,2007-01-13,Suelo,Venta,Barcelona,217,1578675,,
+3059,2007-01-14,Suelo,Alquiler,Barcelona,289,2427311,,
+3062,2007-01-15,Parking,Alquiler,Barcelona,71,537825,,
+3063,2007-01-15,Piso,Venta,Barcelona,120,761520,,
+3066,2007-01-16,Piso,Venta,Barcelona,256,1856000,,
+3067,2007-01-17,Casa,Alquiler,Barcelona,196,814380,,
+3073,2007-01-20,Oficina,Alquiler,Barcelona,123,885969,,
+3077,2007-01-20,Industrial,Venta,Barcelona,239,1517889,,
+3081,2007-01-21,Parking,Alquiler,Barcelona,268,1420132,,
+3084,2007-01-23,Local,Alquiler,Barcelona,108,784080,,
+3091,2007-01-26,Parking,Alquiler,Barcelona,189,1788885,,
+3097,2007-01-29,Industrial,Alquiler,Barcelona,79,381254,,
+3098,2007-01-29,Oficina,Alquiler,Barcelona,296,2563064,,
+3099,2007-01-29,Parking,Venta,Barcelona,230,1445090,,
+3102,2007-01-31,Suelo,Venta,Barcelona,101,921827,,
+3110,2007-02-02,Oficina,Venta,Barcelona,102,860676,,
+3111,2007-02-02,Suelo,Venta,Barcelona,124,684356,,
+3112,2007-02-03,Piso,Alquiler,Barcelona,112,1005648,,
+3113,2007-02-03,Casa,Alquiler,Barcelona,158,1045486,,
+3118,2007-02-06,Industrial,Venta,Barcelona,113,952929,,
+3121,2007-02-06,Industrial,Venta,Barcelona,105,496020,,
+3124,2007-02-10,Piso,Venta,Barcelona,119,688058,,
+3131,2007-02-11,Parking,Venta,Barcelona,54,521910,,
+3132,2007-02-12,Suelo,Alquiler,Barcelona,59,519023,,
+3135,2007-02-12,Local,Venta,Barcelona,82,417626,,
+3151,2007-02-19,Casa,Venta,Barcelona,61,260775,,
+3153,2007-02-20,Casa,Venta,Barcelona,281,1527516,,
+3156,2007-02-22,Local,Alquiler,Barcelona,95,435670,,
+3157,2007-02-22,Local,Venta,Barcelona,267,1127274,,
+3161,2007-02-23,Industrial,Venta,Barcelona,261,2186658,,
+3165,2007-02-24,Suelo,Venta,Barcelona,87,348696,,
+3172,2007-02-27,Suelo,Venta,Barcelona,279,1395837,,
+3183,2007-03-03,Piso,Alquiler,Barcelona,266,2233602,,
+3184,2007-03-03,Industrial,Venta,Barcelona,251,1913624,,
+3189,2007-03-05,Parking,Venta,Barcelona,213,1324008,,
+3191,2007-03-05,Piso,Venta,Barcelona,280,2439640,,
+3193,2007-03-07,Parking,Alquiler,Barcelona,62,397606,,
+3201,2007-03-09,Oficina,Venta,Barcelona,298,1360966,,
+3212,2007-03-14,Casa,Alquiler,Barcelona,53,503871,,
+3218,2007-03-15,Oficina,Alquiler,Barcelona,95,905920,,
+3229,2007-03-17,Suelo,Alquiler,Barcelona,88,476784,,
+3230,2007-03-18,Oficina,Alquiler,Barcelona,106,520672,,
+3232,2007-03-19,Oficina,Venta,Barcelona,110,713680,,
+3238,2007-03-20,Local,Venta,Barcelona,159,1056714,,
+3241,2007-03-21,Suelo,Alquiler,Barcelona,60,586920,,
+3244,2007-03-22,Industrial,Alquiler,Barcelona,283,1800729,,
+3245,2007-03-23,Parking,Venta,Barcelona,144,1035648,,
+3246,2007-03-23,Oficina,Venta,Barcelona,95,940310,,
+3247,2007-03-23,Piso,Venta,Barcelona,135,1298025,,
+3257,2007-03-27,Local,Venta,Barcelona,182,777868,,
+3262,2007-03-29,Casa,Alquiler,Barcelona,197,1630569,,
+3266,2007-03-31,Casa,Venta,Barcelona,199,1682346,,
+3267,2007-04-01,Industrial,Alquiler,Barcelona,300,2908500,,
+3274,2007-04-03,Casa,Venta,Barcelona,42,417564,,
+3277,2007-04-05,Oficina,Alquiler,Barcelona,146,725474,,
+3281,2007-04-06,Parking,Alquiler,Barcelona,220,1296900,,
+3285,2007-04-07,Suelo,Alquiler,Barcelona,257,2490587,,
+3287,2007-04-09,Local,Alquiler,Barcelona,293,2065357,,
+3295,2007-04-11,Industrial,Venta,Barcelona,89,414829,,
+3302,2007-04-12,Local,Alquiler,Barcelona,229,916229,,
+3313,2007-04-18,Casa,Venta,Barcelona,284,1808512,,
+3315,2007-04-19,Oficina,Alquiler,Barcelona,146,1063902,,
+3320,2007-04-23,Parking,Alquiler,Barcelona,81,607014,,
+3321,2007-04-23,Local,Venta,Barcelona,44,180048,,
+3322,2007-04-23,Piso,Venta,Barcelona,283,2686236,,
+3323,2007-04-24,Oficina,Venta,Barcelona,136,807432,,
+3325,2007-04-25,Industrial,Alquiler,Barcelona,296,2078216,,
+3326,2007-04-25,Suelo,Alquiler,Barcelona,161,999005,,
+3328,2007-04-26,Piso,Venta,Barcelona,264,2517504,,
+3329,2007-04-27,Parking,Venta,Barcelona,88,612568,,
+3335,2007-04-30,Piso,Alquiler,Barcelona,88,397408,,
